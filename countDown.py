@@ -6,4 +6,4 @@ def countDown(n):
         if(n == 0):
            print('Blast off!')
               
-countDown(5)              
+countDown(7)              
